@@ -1,2 +1,2 @@
 # Piece-of-work-while-studying
-ไฟล์มินิโปรเจควิชา Web Programming
+ไฟล์มินิโปรเจคะหว่างเรียน
